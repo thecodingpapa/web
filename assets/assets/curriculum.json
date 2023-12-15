@@ -1,0 +1,485 @@
+[
+    {
+        "section": "Basic Variables",
+        "subtitles": [
+            {
+                "subtitle": "First Variable"
+            },
+            {
+                "subtitle": "Number Type"
+            },
+            {
+                "subtitle": "String Type"
+            },
+            {
+                "subtitle": "Boolean Type"
+            },
+            {
+                "subtitle": "Null And Undefined Type"
+            },
+            {
+                "subtitle": "Variable Comparison"
+            },
+            {
+                "subtitle": "Garbage Collection"
+            },
+            {
+                "subtitle": "Comments"
+            }
+        ]
+    },
+    {
+        "section": "Functions/Scoping",
+        "subtitles": [
+            {
+                "subtitle": "Normal Functions"
+            },
+            {
+                "subtitle": "Passing Functions As Arguments"
+            },
+            {
+                "subtitle": "Arrow Functions"
+            },
+            {
+                "subtitle": "Stack Trace And Call Stack"
+            },
+            {
+                "subtitle": "Hoisting"
+            },
+            {
+                "subtitle": "Scoping"
+            },
+            {
+                "subtitle": "Closures"
+            }
+        ]
+    },
+    {
+        "section": "Advanced Variables",
+        "subtitles": [
+            {
+                "subtitle": "Const"
+            },
+            {
+                "subtitle": "Var"
+            },
+            {
+                "subtitle": "Learn Coding with AI 2"
+            },
+            {
+                "subtitle": "Type Coercion"
+            },
+            {
+                "subtitle": "== Vs ==="
+            },
+            {
+                "subtitle": "NaN"
+            },
+            {
+                "subtitle": "Arrays"
+            },
+            {
+                "subtitle": "Objects"
+            },
+            {
+                "subtitle": "Reference Vs Value"
+            },
+            {
+                "subtitle": "Array Methods"
+            },
+            {
+                "subtitle": "String Template Literals"
+            },
+            {
+                "subtitle": "New And This"
+            }
+        ]
+    },
+    {
+        "section": "Basic DOM",
+        "subtitles": [
+            {
+                "subtitle": "Async Vs Defer"
+            },
+            {
+                "subtitle": "Window"
+            },
+            {
+                "subtitle": "Document"
+            },
+            {
+                "subtitle": "Id And Class Selectors"
+            },
+            {
+                "subtitle": "Query Selectors"
+            },
+            {
+                "subtitle": "Event Listeners"
+            },
+            {
+                "subtitle": "Additional Differences Between Arrow And Normal Functions"
+            },
+            {
+                "subtitle": "Data Attributes"
+            },
+            {
+                "subtitle": "DOM Traversal"
+            },
+            {
+                "subtitle": "Simple Todo List"
+            },
+            {
+                "subtitle": "Modal Introduction"
+            },
+            {
+                "subtitle": "Modal Walkthrough"
+            }
+        ]
+    },
+    {
+        "section": "Control Flow",
+        "subtitles": [
+            {
+                "subtitle": "If"
+            },
+            {
+                "subtitle": "Ternary Operator"
+            },
+            {
+                "subtitle": "Switch Statement"
+            },
+            {
+                "subtitle": "Learn Coding with AI 3"
+            },
+            {
+                "subtitle": "For Loop"
+            },
+            {
+                "subtitle": "While Loop"
+            },
+            {
+                "subtitle": "Recursion"
+            },
+            {
+                "subtitle": "Short Circuit Evaluation"
+            },
+            {
+                "subtitle": "Midi Piano"
+            },
+            {
+                "subtitle": "Quiz App Introduction"
+            },
+            {
+                "subtitle": "Quiz App Walkthrough"
+            },
+            {
+                "subtitle": "Form Validation Introduction"
+            },
+            {
+                "subtitle": "Form Validation Walkthrough"
+            }
+        ]
+    },
+    {
+        "section": "Asynchronous Code",
+        "subtitles": [
+            {
+                "subtitle": "Callbacks"
+            },
+            {
+                "subtitle": "Promises"
+            },
+            {
+                "subtitle": "Async Await"
+            }
+        ]
+    },
+    {
+        "section": "Advanced DOM",
+        "subtitles": [
+            {
+                "subtitle": "Fetch"
+            },
+            {
+                "subtitle": "Event Loop"
+            },
+            {
+                "subtitle": "Event Delegation"
+            },
+            {
+                "subtitle": "Browser Storage"
+            },
+            {
+                "subtitle": "Advanced Todo List"
+            },
+            {
+                "subtitle": "Expand Collapse Introduction"
+            },
+            {
+                "subtitle": "Expand Collapse Walkthrough"
+            },
+            {
+                "subtitle": "Google Maps Clone"
+            }
+        ]
+    },
+    {
+        "section": "Modules/Bundlers",
+        "subtitles": [
+            {
+                "subtitle": "ES6 Modules"
+            },
+            {
+                "subtitle": "Node Modules"
+            },
+            {
+                "subtitle": "NPM"
+            },
+            {
+                "subtitle": "Learn Coding with AI 4"
+            },
+            {
+                "subtitle": "Parcel"
+            },
+            {
+                "subtitle": "Date Picker"
+            },
+            {
+                "subtitle": "Shopping Cart"
+            }
+        ]
+    },
+    {
+        "section": "Advanced Features",
+        "subtitles": [
+            {
+                "subtitle": "De-structuring"
+            },
+            {
+                "subtitle": "Spread And Rest Operator"
+            },
+            {
+                "subtitle": "Enhanced Object Literals"
+            },
+            {
+                "subtitle": "Default Parameters"
+            },
+            {
+                "subtitle": "Null Coalescing"
+            },
+            {
+                "subtitle": "Optional Chaining"
+            },
+            {
+                "subtitle": "Maps"
+            },
+            {
+                "subtitle": "Sets"
+            },
+            {
+                "subtitle": "Symbols"
+            },
+            {
+                "subtitle": "Generators And Iterators"
+            },
+            {
+                "subtitle": "Object Getters And Setters"
+            },
+            {
+                "subtitle": "Bind"
+            },
+            {
+                "subtitle": "Call And Apply"
+            },
+            {
+                "subtitle": "Minesweeper Project"
+            },
+            {
+                "subtitle": "Math Solver Introduction"
+            },
+            {
+                "subtitle": "Math Solver Walkthrough"
+            }
+        ]
+    },
+    {
+        "section": "Using Future JavaScript",
+        "subtitles": [
+            {
+                "subtitle": "ES Updates"
+            },
+            {
+                "subtitle": "Polyfills"
+            },
+            {
+                "subtitle": "Transpile And Babel"
+            },
+            {
+                "subtitle": "Bundlers"
+            }
+        ]
+    },
+    {
+        "section": "Object Oriented Programming",
+        "subtitles": [
+            {
+                "subtitle": "Learn Coding with AI 5"
+            },
+            {
+                "subtitle": "Prototypes"
+            },
+            {
+                "subtitle": "Class Basics"
+            },
+            {
+                "subtitle": "Class Inheritance"
+            },
+            {
+                "subtitle": "Public, Private, And Protected Properties"
+            },
+            {
+                "subtitle": "ATM CLI Project"
+            },
+            {
+                "subtitle": "Calculator Project Introduction"
+            },
+            {
+                "subtitle": "Calculator Project Walkthrough"
+            }
+        ]
+    },
+    {
+        "section": "Functional Programming",
+        "subtitles": [
+            {
+                "subtitle": "What Is Functional Programming"
+            },
+            {
+                "subtitle": "Pure Functions"
+            },
+            {
+                "subtitle": "Immutability"
+            },
+            {
+                "subtitle": "Higher Order Functions"
+            },
+            {
+                "subtitle": "Function Composition"
+            },
+            {
+                "subtitle": "Currying"
+            },
+            {
+                "subtitle": "Minesweeper Functional Programming Project"
+            }
+        ]
+    },
+    {
+        "section": "Testing",
+        "subtitles": [
+            {
+                "subtitle": "What Is Testing And Why Is It Important"
+            },
+            {
+                "subtitle": "Advanced Debugging"
+            },
+            {
+                "subtitle": "Jest Basics"
+            },
+            {
+                "subtitle": "Types Of Tests"
+            },
+            {
+                "subtitle": "Unit Test Project"
+            },
+            {
+                "subtitle": "Integration Test Project"
+            },
+            {
+                "subtitle": "End To End Test Project"
+            },
+            {
+                "subtitle": "Test Driven Development"
+            },
+            {
+                "subtitle": "How To Know What To Test"
+            },
+            {
+                "subtitle": "Jest With ES6 Modules"
+            },
+            {
+                "subtitle": "Learn Coding with AI 6"
+            },
+            {
+                "subtitle": "Math Solver Test Walkthrough"
+            },
+            {
+                "subtitle": "Minesweeper Test Introduction"
+            },
+            {
+                "subtitle": "Minesweeper Test Walkthrough"
+            }
+        ]
+    },
+    {
+        "section": "Security",
+        "subtitles": [
+            {
+                "subtitle": "NPM Audit"
+            },
+            {
+                "subtitle": "Cross Site Scripting"
+            },
+            {
+                "subtitle": "Sanitize User Input"
+            },
+            {
+                "subtitle": "All Your Code Is Public"
+            },
+            {
+                "subtitle": "Never Trust The Client"
+            },
+            {
+                "subtitle": "Cookies"
+            },
+            {
+                "subtitle": "Weather App Project"
+            }
+        ]
+    },
+    {
+        "section": "Clean Code",
+        "subtitles": [
+            {
+                "subtitle": "Clean Code Basics"
+            },
+            {
+                "subtitle": "Code Order"
+            },
+            {
+                "subtitle": "When To Use Comments"
+            },
+            {
+                "subtitle": "Coupling And Cohesion"
+            },
+            {
+                "subtitle": "Facade Pattern"
+            },
+            {
+                "subtitle": "Guard Clauses"
+            },
+            {
+                "subtitle": "Composition Vs Inheritance"
+            },
+            {
+                "subtitle": "Don't Repeat Yourself"
+            },
+            {
+                "subtitle": "Color Game Introduction"
+            },
+            {
+                "subtitle": "Color Game Walkthrough"
+            }
+        ]
+    }
+]
